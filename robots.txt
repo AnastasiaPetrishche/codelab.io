@@ -1,3 +1,4 @@
  	User-agent: *
 Disallow: /private/
 Allow: /
+Sitemap: https://anastasiapetrishche.github.io/codelab.io/sitemap.xml
